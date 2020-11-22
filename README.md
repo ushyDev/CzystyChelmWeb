@@ -2,6 +2,6 @@
 
 Żeby przetestować stronę internetową wystarczy wejśc w link poniżej:
 
-https://5fb965528ed60cf7714eefbf--czystych.netlify.app/
+https://5fba3676f6523695c3883598--czystych.netlify.app/
 
-React Native + Firebase
+Technologia: React Native + Firebase
