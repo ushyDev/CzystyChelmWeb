@@ -1,0 +1,462 @@
+[
+	{
+		"lp": 1,
+		"nazwa": "Przedszkole Miejskie Nr 2",
+		"adres": "ul. Starościńska 4b",
+		"pet_kg": 5,
+		"metale_kg": 3,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 2,
+		"nazwa": "Przedszkole Miejskie Nr 5",
+		"adres": "ul. Kwiatowa 1",
+		"pet_kg": 8,
+		"metale_kg": 20,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 3,
+		"nazwa": "Przedszkole Miejskie Nr 6",
+		"adres": "ul. Pocztowa 18",
+		"pet_kg": 8,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 4,
+		"nazwa": "Przedszkole Miejskie Nr 8",
+		"adres": "ul. Reja 54",
+		"pet_kg": 9,
+		"metale_kg": 0,
+		"makulatura_kg": 45,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 5,
+		"nazwa": "Przedszkole Miejskie Nr 10",
+		"adres": "ul. Zachodnia 49",
+		"pet_kg": 5,
+		"metale_kg": 0,
+		"makulatura_kg": 32,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 6,
+		"nazwa": "Przedszkole Miejskie Nr 11",
+		"adres": "ul. Piłsudskiego 25 a",
+		"pet_kg": 7,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 4
+	},
+	{
+		"lp": 7,
+		"nazwa": "Przedszkole Miejskie Nr 12",
+		"adres": "ul. Powstańców Warszawy 6",
+		"pet_kg": 8,
+		"metale_kg": 6,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 8,
+		"nazwa": "Przedszkole Miejskie Nr 13 z Oddziałami Integracyjnymi",
+		"adres": "ul. Połaniecka 5",
+		"pet_kg": 9,
+		"metale_kg": 18,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 9,
+		"nazwa": "Przedszkole Miejskie Nr 14",
+		"adres": "ul. G. Roweckiego 4a",
+		"pet_kg": 5,
+		"metale_kg": 4,
+		"makulatura_kg": 0,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 10,
+		"nazwa": "Przedszkole Miejskie Nr 15",
+		"adres": "ul. Wieniawskiego 3",
+		"pet_kg": 5,
+		"metale_kg": 4,
+		"makulatura_kg": 0,
+		"nakretki_kg": 3,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 11,
+		"nazwa": "Szkoła Podstawowa Nr 1",
+		"adres": "ul. Wołyńska 1",
+		"pet_kg": 6,
+		"metale_kg": 0,
+		"makulatura_kg": 5,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 4
+	},
+	{
+		"lp": 12,
+		"nazwa": "Szkoła Podstawowa Nr 2",
+		"adres": "ul. Obłońska 51",
+		"pet_kg": 8,
+		"metale_kg": 5,
+		"makulatura_kg": 0,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 5
+	},
+	{
+		"lp": 13,
+		"nazwa": "Szkoła Podstawowa Nr 4 z Oddziałami Integracyjnymi",
+		"adres": "ul. Wyszyńskiego 15",
+		"pet_kg": 9,
+		"metale_kg": 32,
+		"makulatura_kg": 7,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 6
+	},
+	{
+		"lp": 14,
+		"nazwa": "Szkoła Podstawowa Nr 5",
+		"adres": "ul. I Pułku Szwoleżerów 1",
+		"pet_kg": 5,
+		"metale_kg": 15,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 15,
+		"nazwa": "Szkoła Podstawowa Nr 7",
+		"adres": "ul. Synów Pułku 15",
+		"pet_kg": 8,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 16,
+		"nazwa": "Szkoła Podstawowa Nr 8",
+		"adres": "ul. Połaniecka 10",
+		"pet_kg": 8,
+		"metale_kg": 34,
+		"makulatura_kg": 0,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 17,
+		"nazwa": "Szkoła Podstawowa Nr 11",
+		"adres": "ul. Powstańców Warszawy 10",
+		"pet_kg": 9,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 18,
+		"nazwa": "Zespół Szkolno Przedszkolny Nr 3 z Oddziałami Integracyjnymi",
+		"adres": "ul. Rejowiecka 76",
+		"pet_kg": 5,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 3,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 19,
+		"nazwa": "I Liceum Ogólnokształcące",
+		"adres": "ul. Czarnieckiego 8",
+		"pet_kg": 7,
+		"metale_kg": 24,
+		"makulatura_kg": 18,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 20,
+		"nazwa": "II Liceum Ogólnokształcące",
+		"adres": "ul. Szpitalna 14",
+		"pet_kg": 8,
+		"metale_kg": 8,
+		"makulatura_kg": 16,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 21,
+		"nazwa": "Zespół Szkół Ekonomicznych i  Mundurowych",
+		"adres": "ul. Sienkiewicza 22",
+		"pet_kg": 9,
+		"metale_kg": 20,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 22,
+		"nazwa": "IV Liceum Ogólnokształcące z Oddziałami Integracyjnymi",
+		"adres": "ul. Św. Mikołaja 4",
+		"pet_kg": 5,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 23,
+		"nazwa": "Zespół Szkół Budowlanych i Geodezyjnych",
+		"adres": "ul. Batorego 1",
+		"pet_kg": 4,
+		"metale_kg": 16,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 24,
+		"nazwa": "Zespół Szkół Technicznych",
+		"adres": "ul. Graniczna 2",
+		"pet_kg": 6,
+		"metale_kg": 13,
+		"makulatura_kg": 5,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 25,
+		"nazwa": "Zespół Szkół Gastronomicznych i Hotelarskich",
+		"adres": "ul. Reformacka 13",
+		"pet_kg": 8,
+		"metale_kg": 6,
+		"makulatura_kg": 0,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 26,
+		"nazwa": "Zespół Szkół Energetycznych i Transportowych",
+		"adres": "ul. Jagiellońska 29",
+		"pet_kg": 9,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 3,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 27,
+		"nazwa": "Centrum Kształcenia Praktycznego",
+		"adres": "ul. Jagiellońska 29",
+		"pet_kg": 5,
+		"metale_kg": 63,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 28,
+		"nazwa": "Centrum Kształcenia Ustawicznego",
+		"adres": "ul. Batorego 1",
+		"pet_kg": 8,
+		"metale_kg": 0,
+		"makulatura_kg": 7,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 29,
+		"nazwa": "Zespół Wychowania i  Pomocy Psychologiczno – Pedagogicznej Nr 1",
+		"adres": "ul. Trubakowska 59",
+		"pet_kg": 8,
+		"metale_kg": 22,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 30,
+		"nazwa": "Zespół Wychowania i  Pomocy Psychologiczno – Pedagogicznej Nr 2",
+		"adres": "ul. Powstańców Warszawy 8",
+		"pet_kg": 9,
+		"metale_kg": 10,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 31,
+		"nazwa": "Młodzieżowy Dom Kultury",
+		"adres": "ul. Pocztowa 41",
+		"pet_kg": 5,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 32,
+		"nazwa": "Niepubliczna Szkoła Podstawowa Razem",
+		"adres": "ul. Reja 54",
+		"pet_kg": 7,
+		"metale_kg": 4,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 33,
+		"nazwa": "MOPR",
+		"adres": "ul. Kolejowa 7",
+		"pet_kg": 8,
+		"metale_kg": 7,
+		"makulatura_kg": 0,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 34,
+		"nazwa": "Polski Czerwony Krzyż. Zarząd Rejonowy",
+		"adres": "ul. Rejowiecka 132",
+		"pet_kg": 9,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 3,
+		"ilosc_telefonow": 4
+	},
+	{
+		"lp": 35,
+		"nazwa": "Chełmski Ośrodek Wsparcia Bliźniego Caritas Ordynariatu Polowego Wojska Polskiego",
+		"adres": "Lubelska 137",
+		"pet_kg": 5,
+		"metale_kg": 5,
+		"makulatura_kg": 10,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 5
+	},
+	{
+		"lp": 36,
+		"nazwa": "Związek Harcerstwa Polskiego",
+		"adres": "1 Pułku Szwoleżerów 15A",
+		"pet_kg": 5,
+		"metale_kg": 7,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 37,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Narodzenia Najświętszej Marii Panny",
+		"adres": "ul. Lubelska 2",
+		"pet_kg": 6,
+		"metale_kg": 0,
+		"makulatura_kg": 15,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 38,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Rozesłania Świętych Apostołów",
+		"adres": "ul. Lubelska 55",
+		"pet_kg": 8,
+		"metale_kg": 22,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 39,
+		"nazwa": "Kościół Rzymskokatolicki - Klasztor Franciszkanów",
+		"adres": "ul. Reformacka 13a",
+		"pet_kg": 9,
+		"metale_kg": 10,
+		"makulatura_kg": 17,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 4
+	},
+	{
+		"lp": 40,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Św. Kazimierza",
+		"adres": "ul. Koszarowa 16",
+		"pet_kg": 5,
+		"metale_kg": 0,
+		"makulatura_kg": 150,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 5
+	},
+	{
+		"lp": 41,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Miłosierdzia Bożego",
+		"adres": " ul. Artura Grottgera 1a",
+		"pet_kg": 8,
+		"metale_kg": 4,
+		"makulatura_kg": 3763,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 0
+	},
+	{
+		"lp": 42,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Chrystusa Odkupiciela",
+		"adres": "ul. Księdza Marcelego Mrozka 2",
+		"pet_kg": 8,
+		"metale_kg": 7,
+		"makulatura_kg": 0,
+		"nakretki_kg": 3,
+		"ilosc_telefonow": 2
+	},
+	{
+		"lp": 43,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Świętego Ducha",
+		"adres": "ul. Grunwaldzka 32",
+		"pet_kg": 9,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 0,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 44,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Przenajświętszej Trójcy",
+		"adres": "Plac Jana Pawła II 2",
+		"pet_kg": 5,
+		"metale_kg": 0,
+		"makulatura_kg": 130,
+		"nakretki_kg": 4,
+		"ilosc_telefonow": 3
+	},
+	{
+		"lp": 45,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Świętej Rodziny",
+		"adres": "ul. Karola Szymanowskiego 19",
+		"pet_kg": 7,
+		"metale_kg": 0,
+		"makulatura_kg": 0,
+		"nakretki_kg": 2,
+		"ilosc_telefonow": 1
+	},
+	{
+		"lp": 46,
+		"nazwa": "Kościół Rzymskokatolicki p.w. Matki Teresy z Kalkuty",
+		"adres": "ul. Jana Kochanowskiego 36",
+		"pet_kg": 8,
+		"metale_kg": 0,
+		"makulatura_kg": 50,
+		"nakretki_kg": 1,
+		"ilosc_telefonow": 0
+	}
+]

@@ -1,0 +1,345 @@
+[
+	{
+		"lp": 1,
+		"nazwa": "Centrum Kształcenia Ustawicznego",
+		"adres": "Batorego 1",
+		"ilosc": 2,
+		"uwagi": null
+	},
+	{
+		"lp": 2,
+		"nazwa": "Chełmskie Towarzystwo Edukacyjne Stowarzyszenie w Chełmie",
+		"adres": "Hrubieszowska 102/2",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 3,
+		"nazwa": "EWA Spółka Cywilna",
+		"adres": "Lubelska 4",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 4,
+		"nazwa": "EWA Spółka Cywilna",
+		"adres": "Lubelska 8",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 5,
+		"nazwa": "EWA Spółka Cywilna",
+		"adres": "Partyzantów 27",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 6,
+		"nazwa": "Górnicza Spółdzielnia Mieszkaniowa",
+		"adres": "Zachodnia 37",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 7,
+		"nazwa": "I Liceum Ogólnokształcące",
+		"adres": "Czarneckiego 8",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 8,
+		"nazwa": "II Liceum Ogólnokształcące",
+		"adres": "Szpitalna 14",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 9,
+		"nazwa": "MPGK Sp. z o.o.",
+		"adres": "Bieławin 5",
+		"ilosc": 1,
+		"uwagi": "ZOM"
+	},
+	{
+		"lp": 10,
+		"nazwa": "MPGK Sp. z o.o.",
+		"adres": "Wołyńska 57",
+		"ilosc": 1,
+		"uwagi": "Biurowiec"
+	},
+	{
+		"lp": 11,
+		"nazwa": "Niepubliczna Integracyjna Szkoła Podstawowa Nowoczesnych Technologii Języków Obcych ARKA",
+		"adres": "Wojsławicka 8A",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 12,
+		"nazwa": "Niepubliczna Szkoła Podstawowa z Oddziałami Integracyjnymi RAZEM",
+		"adres": "Mikołaja Reja 54",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 13,
+		"nazwa": "Państwowa Wyższa Szkoła Zawodowa",
+		"adres": "Nowy Świat 1",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 14,
+		"nazwa": "Państwowa Wyższa Szkoła Zawodowa",
+		"adres": "Pocztowa 54",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 15,
+		"nazwa": "Państwowa Wyższa Szkoła Zawodowa",
+		"adres": "Wojsławicka 8",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 16,
+		"nazwa": "Przedszkole Miejskie Nr  6",
+		"adres": "Pocztowa 18",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 17,
+		"nazwa": "Przedszkole Miejskie Nr  8",
+		"adres": "Mikołaja reja 54",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 18,
+		"nazwa": "Przedszkole Miejskie Nr 10",
+		"adres": "Zachodnia 49",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 19,
+		"nazwa": "Przedszkole Miejskie Nr 12",
+		"adres": "Powstańców Warszawy 6",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 20,
+		"nazwa": "Przedszkole Niepubliczne z Oddziałami Integracyjnymi RAZEM",
+		"adres": "Botaniczna 16",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 21,
+		"nazwa": "Szkoła Podstawowa Nr  4",
+		"adres": "Wyszyńskiego 15",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 22,
+		"nazwa": "Szkoła podstawowa Nr  5",
+		"adres": "I Pułku Szwoleżerów 1",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 23,
+		"nazwa": "Szkoła Podstawowa Nr 10",
+		"adres": "Reformacka 13",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 24,
+		"nazwa": "Szkoła Podstawowa Nr 11",
+		"adres": "Wolności 20",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 25,
+		"nazwa": "Środowiskowy Dom Samopomocy",
+		"adres": "Powstańców Warszawy 4",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 26,
+		"nazwa": "Urząd Miasta Chełm",
+		"adres": "Lubelska 65",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 27,
+		"nazwa": "Urząd Miasta Chełm",
+		"adres": "Mickiewicza 32A",
+		"ilosc": 1,
+		"uwagi": "GOK"
+	},
+	{
+		"lp": 28,
+		"nazwa": "Warsztat Terapii Zajęciowej",
+		"adres": "Lubelska 135E",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 29,
+		"nazwa": "Warsztat Terapii Zajęciowej",
+		"adres": "Połaniecka 10",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 30,
+		"nazwa": "Wyższa Szkoła Stosunków Międzynarodowych i Komunikacji Społecznej",
+		"adres": "Wojsławicka 8A",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 31,
+		"nazwa": "Zespół Szkolno Przedszkolny Nr 13",
+		"adres": "Rejowiecka 76",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 32,
+		"nazwa": "Zespół Szkól Ogólnokształcących Nr 1",
+		"adres": "Wołyńska 1",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 33,
+		"nazwa": "Zespół Szkól Ogólnokształcących Nr 6",
+		"adres": "Powstańców Warszawy 10",
+		"ilosc": 2,
+		"uwagi": null
+	},
+	{
+		"lp": 34,
+		"nazwa": "Zespół Szkól Ogólnokształcących Nr 7",
+		"adres": "Sunów Pułku 15",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 35,
+		"nazwa": "Zespół Szkól Ogólnokształcących Nr 8",
+		"adres": "Połaniecka 10",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 36,
+		"nazwa": "Zespół Szkół Budowlanych i Geodezyjnych",
+		"adres": "Batorego 1",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 37,
+		"nazwa": "Zespół Szkół Gastronomiczno- Hotelarskich",
+		"adres": "Reformacka 13",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 38,
+		"nazwa": "Zespół szkół Technicznych",
+		"adres": "Graniczna 2",
+		"ilosc": 1,
+		"uwagi": "Szkoła"
+	},
+	{
+		"lp": 39,
+		"nazwa": "Zespół szkół Technicznych",
+		"adres": "Graniczna 2",
+		"ilosc": 1,
+		"uwagi": "Internat"
+	},
+	{
+		"lp": 40,
+		"nazwa": "Zespół Szkół Zawodowych Nr 5",
+		"adres": "Jagiellońska 29",
+		"ilosc": 1,
+		"uwagi": "Szkoła"
+	},
+	{
+		"lp": 41,
+		"nazwa": "Zespół Szkół Zawodowych Nr 5",
+		"adres": "Jagiellońska 29",
+		"ilosc": 1,
+		"uwagi": "Internat"
+	},
+	{
+		"lp": 42,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno- Pedagogicznej",
+		"adres": "Połaniecka 5",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 43,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno-Pedagogicznej",
+		"adres": "Powstańców Warszawy",
+		"ilosc": 1,
+		"uwagi": null
+	},
+	{
+		"lp": 44,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno- Pedagogicznej",
+		"adres": "Trubakowska 59",
+		"ilosc": 1,
+		"uwagi": "Szkoła"
+	},
+	{
+		"lp": 45,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno- Pedagogicznej",
+		"adres": "Trubakowska 59",
+		"ilosc": 1,
+		"uwagi": "Internat"
+	},
+	{
+		"lp": 46,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno- Pedagogicznej",
+		"adres": "Trubakowska 59",
+		"ilosc": 1,
+		"uwagi": "Kuchnia-stołówka"
+	},
+	{
+		"lp": 47,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno-Pedagogicznej Nr 2",
+		"adres": "Powstańców Warszawy",
+		"ilosc": 1,
+		"uwagi": "Bursa Szkolna"
+	},
+	{
+		"lp": 48,
+		"nazwa": "Zespół Wychowania i Pomocy Psychologiczno-Pedagogicznej Nr 2",
+		"adres": "Powstańców Warszawy",
+		"ilosc": 1,
+		"uwagi": "Schronisko Młodzieżowe"
+	},
+	{
+		"lp": 49,
+		"nazwa": "Urząd Miasta Chełm ",
+		"adres": "Obłońska 20",
+		"ilosc": 1,
+		"uwagi": "Straż Miejska"
+	}
+]
